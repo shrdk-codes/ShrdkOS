@@ -1,0 +1,2 @@
+# ShrdkOS
+Under development phase
